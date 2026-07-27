@@ -1,11 +1,55 @@
-.htaccess
-css.php
-rpc/
-sites/site*/admin/
-sites/site*/private/
-sites/site*/public/admin/
-sites/site*/public/setup/
-sites/site*/public/theme/
-textpattern/
-HISTORY.txt
-README.txt
+# Python bytecode
+
+__pycache__/
+
+*.py[cod]
+
+*$py.class
+
+# Virtual environments
+
+venv/
+
+.venv/
+
+env/
+
+# Environment variables
+
+.env
+
+# IDE settings
+
+.vscode/
+
+.idea/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# SQLite database (if you use SQLite)
+
+*.db
+
+*.sqlite3
+
+# Log files
+
+*.log
+
+# Python test cache
+
+.pytest_cache/
+
+# Distribution files
+
+build/
+
+dist/
+
+*.egg-info/
