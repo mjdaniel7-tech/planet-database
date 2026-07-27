@@ -1,10 +1,38 @@
 # Solar System Information System
 
-A multi-language software project demonstrating database design, Python, Java, Rust, MySQL, and AI integration.
+A portfolio project demonstrating software development using Python, MySQL, Java, Rust, SQL, and AI.
+
+The project begins with a simple Python program and evolves into a complete relational database application with multiple programming languages and an AI assistant.
+
+---
 
 ## Project Overview
 
-This project models the Solar System using a MySQL relational database and multiple programming languages. It demonstrates database design, application development, and AI-assisted natural language queries.
+The Solar System Information System stores scientific information about planets and moons in a MySQL database. Multiple applications connect to the same database, demonstrating database design, software development, and AI integration.
+
+---
+
+## Features
+
+- Planet Database
+
+- Moon Database
+
+- Relational MySQL Database
+
+- Python Application
+
+- Java Application
+
+- Rust Application
+
+- AI Assistant
+
+- Reports and Search
+
+- NASA Media Integration (Planned)
+
+---
 
 ## Technologies
 
@@ -22,82 +50,166 @@ This project models the Solar System using a MySQL relational database and multi
 
 - OpenAI API
 
+- Git
+
+- GitHub
+
+---
+
 ## Project Phases
 
-### Phase 1
+### Phase 1 – Python Foundation
 
-Basic SQL database
+- Planet Database
 
-- Create database
+- Python Classes
 
-- Create celestial_bodies table
+- Basic SQL Database
 
-- Insert planet data
+- CRUD Operations
 
-- Basic SQL queries
+### Phase 2 – Relational Database
 
-### Phase 2
+- Celestial Bodies Table
 
-Relational database
+- Moons Table
 
-- Planets
+- Primary Keys
 
-- Moons
+- Foreign Keys
 
-- Foreign keys
+- Scientific Data
 
-- Scientific data
+- SQL Reports
 
-- Reports
+- JOIN Queries
 
-### Phase 3
-
-Python Application
+### Phase 3 – Python Database Application
 
 - Connect to MySQL
 
-- Search planets
+- Search Planets
 
-- Search moons
+- Search Moons
 
-- Reports
+- Planet Reports
 
-### Phase 4
+- Database Navigation
 
-AI Application
+### Phase 4 – AI Assistant
 
-- Natural language questions
+- Natural Language Questions
 
-- SQL generation
+- AI Generated SQL Queries
 
-- Database queries
+- Database Search
 
-### Phase 5
+- Intelligent Responses
 
-Java Application
+### Phase 5 – Java Application
 
 - JDBC
 
-- Same database
+- MySQL Connection
 
-### Phase 6
+- Reports
 
-Rust Application
+- Search Functions
 
-- Async database access
+### Phase 6 – Rust Application
 
-- Same database
+- Async Programming
 
-## Future Features
+- SQLx
 
-- NASA images
+- MySQL
 
-- NASA videos
+- Reports
 
-- Additional celestial objects
+- Search Functions
 
-- Graphical interface
+---
+
+## Future Enhancements
+
+- NASA Images
+
+- NASA Videos
+
+- Space Missions
+
+- Asteroid Database
+
+- Comet Database
+
+- Dwarf Planets
+
+- Graphical User Interface (GUI)
+
+- Web Application
+
+---
+
+## Repository Structure
+
+```text
+
+Planets/
+
+│
+
+├── main.py
+
+├── planets.py
+
+├── solar_app.py
+
+├── solar_ai_app.py
+
+├── phase1.sql
+
+├── phase2.sql
+
+├── SolarSystemApp.java
+
+├── Cargo.toml
+
+├── src/
+
+│   └── main.rs
+
+├── README.md
+
+└── .gitignore
+
+```
+
+---
+
+## Learning Goals
+
+This project demonstrates:
+
+- Python Programming
+
+- SQL Database Design
+
+- MySQL Administration
+
+- Java Database Programming
+
+- Rust Database Programming
+
+- Artificial Intelligence Integration
+
+- Software Architecture
+
+- GitHub Project Management
+
+---
 
 ## Author
 
-Michael Daniel
+**Michael Daniel**
+
+GitHub: **mjdaniel7-tech**
