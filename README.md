@@ -1,42 +1,102 @@
-# Planet Database
+# Solar System Information System
 
-A Python project that demonstrates database management concepts using information about the planets in our solar system.
+A multi-language software project demonstrating database design, Python, Java, Rust, MySQL, and AI integration.
 
-## Overview
+## Project Overview
 
-This project is designed to demonstrate Python programming, SQL, and database management by storing information about the planets in our solar system.
-
-## Features
-
-- Store planet information
-
-- Search planets by name
-
-- Update planet records
-
-- Track revision history
-
-- Preserve historical data (such as Pluto's reclassification)
-
-- Unit testing
+This project models the Solar System using a MySQL relational database and multiple programming languages. It demonstrates database design, application development, and AI-assisted natural language queries.
 
 ## Technologies
 
-- Python 3
+- Python
 
 - MySQL
 
 - SQL
 
-## Future Enhancements
+- Java
 
-- Add moons and dwarf planets
+- Rust
 
-- 3D rotating solar system visualization
+- LangChain
 
-- AI-powered search assistant
+- OpenAI API
 
-- Web interface
+## Project Phases
+
+### Phase 1
+
+Basic SQL database
+
+- Create database
+
+- Create celestial_bodies table
+
+- Insert planet data
+
+- Basic SQL queries
+
+### Phase 2
+
+Relational database
+
+- Planets
+
+- Moons
+
+- Foreign keys
+
+- Scientific data
+
+- Reports
+
+### Phase 3
+
+Python Application
+
+- Connect to MySQL
+
+- Search planets
+
+- Search moons
+
+- Reports
+
+### Phase 4
+
+AI Application
+
+- Natural language questions
+
+- SQL generation
+
+- Database queries
+
+### Phase 5
+
+Java Application
+
+- JDBC
+
+- Same database
+
+### Phase 6
+
+Rust Application
+
+- Async database access
+
+- Same database
+
+## Future Features
+
+- NASA images
+
+- NASA videos
+
+- Additional celestial objects
+
+- Graphical interface
 
 ## Author
 
